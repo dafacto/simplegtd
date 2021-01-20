@@ -27,9 +27,6 @@ collections:
   reasons:
     output: true
     permalink: /:name
-  resources:
-    output: true
-    permalink: /:name
 
 # Build settings
 markdown: kramdown
